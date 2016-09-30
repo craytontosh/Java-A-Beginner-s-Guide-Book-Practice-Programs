@@ -1,7 +1,7 @@
 /*
  * Author - Crayton McIntosh
  * Purpose - Finish example problems from the chapter self test section
- * Last Modified - 9/29/2016
+ * Last Modified - 9/30/2016
  */
 package chapteroneselftest;
 public class ChapterOneSelfTest {
